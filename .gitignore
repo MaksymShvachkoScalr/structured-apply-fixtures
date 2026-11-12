@@ -1,0 +1,8 @@
+# Local runs of the fixtures.
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+tfplan
+*.log
+*.json
